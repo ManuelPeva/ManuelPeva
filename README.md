@@ -13,7 +13,7 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre mi:
 
-- 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.
+- 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software.
 - 🎓 &nbsp; Cuento con titulo y cedula profesional y con un master en coding de la escuela Dev.f
 - 💼 &nbsp; Soy gran amante de la tecnologia, actualemente estoy perfeccionando mi ingles para aprender aun más.
 - 👨🏻‍💻 &nbsp; Desarrollador y soporte técnico a empresas.
